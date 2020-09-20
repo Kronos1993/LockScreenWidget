@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lock Widget</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="ok" translatable="false">Ok</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="title_dialog_permission_request">Se necesitan los siguientes permisos:</string>
+    <string name="message_dialog_permissions_request">Es necesario otorgar permisos para realizar llamadas.Sin este la app no funcionará.</string>
+    <string name="permiso_no_obtenido">Permiso no obtenido</string>
+
+    <string name="message">Antes de empezar necesito algunos permisos</string>
+    <string name="otorgar_permisos">Otorgar permisos</string>
+    <string name="add_bubble_command">Ya puedes añadir burbujas</string>
+    <string name="why_this_perm">Otorga este permiso para poder bloquear la pantalla desde el widget</string>
+    <string name="permission_needed_explain">Sin este permiso la app no funcionará</string>
+    <string name="permission_needed_explain_widget">Faltan permisos por otorgar</string>
+    <string name="title_activity_permission">PermissionActivity</string>
+    <string name="quitar_permisos">Quitar permisos</string>
+    <string name="porque_el_permiso">Para que pueda bloquear la pantalla de tu  dispositivo es necesario que tenga permisos de administración del dispositivo. Estamos trabajando para que esto no sea necesario.\n No realizaré otra acción que no sea esa.</string>
+    <string name="permiso_perdido">Necesito que me des permiso de administración del dispositivo para poder bloquear la pantalla.\n No realizaré otra acción que no sea esa.</string>
+    <string name="remove_bubble_command">Eliminar burbuja</string>
+</resources>
